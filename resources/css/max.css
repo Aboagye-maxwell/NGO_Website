@@ -1,0 +1,170 @@
+#about-heading{
+    background-color: #213e8c;
+    font-weight: bolder;
+    font-size:100px;
+    height: 200px;
+    width: 100%;
+}
+
+#about-heading h1{
+    color: white;
+    font-size:70px;
+}
+
+.paragraph{
+    color: black;
+    text-align: center;
+}
+
+#mission{
+    background-color: #213e8c;
+}
+
+#mission h3{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart{
+    height: 50px;
+    width: 50px;
+    background-color: #c84869;
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    border-radius: 50%;
+}
+
+.chart_1{
+    height: 50px;
+    width: 50px;
+    background-color: #c84869;
+    position: fixed;
+    bottom: 13%;
+    right: 5%;
+    border-radius: 50%;
+}
+
+.chart i{
+    color: white;
+}
+
+#arrow{
+
+}
+
+i{
+    color: white;
+}
+
+.abt-h h3{
+    text-align: center;
+    color: black;
+}
+
+.donate-btn{
+    color: white;
+    background-color: #c84869;
+    height: fit-content;
+    width: fit-content;
+    padding: 1% 15% 1% 15%;
+}
+
+#d{
+    text-decoration: none;
+}
+
+h6{
+    font-weight: bolder;
+}
+
+h3{
+    text-align: center;
+}
+
+#mid{
+    text-align: justify;
+}
+
+.bo{
+    font-weight: bolder;
+}
+
+.ca li a{
+    color: black;
+    text-decoration: none;
+}
+
+input[type=email],input[type=text],input[type=password],textarea {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid gray;
+    outline: none;
+    border-radius: 4px;
+}
+
+input[type=email]:hover{
+    border-bottom: 2px solid black;
+}
+
+input[type=text]:hover{
+    border-bottom: 2px solid black;
+}
+
+input[type=password]:hover{
+    border-bottom: 2px solid black;
+}
+
+textarea:hover{
+    border-bottom: 2px solid black;
+}
+
+.color-1{
+    background-color: #213e8c;
+}
+
+.color-2{
+    background-color: #2a70de;
+}
+
+.color-3{
+    background-color: #c84869;
+}
+
+.color-4{
+    color: white;
+}
+
+#d_1{
+    font-weight: lighter;
+    opacity: 85%;
+}
+
+img{
+    transition-duration: 700ms;
+}
+
+img:hover{
+    filter: grayscale(50%);
+}
+
+#d_2{
+
+}
+
+hr{
+    border-bottom: 2px solid gray;
+}
+
+hr:hover{
+    border-bottom: 2px solid red;
+}
+
+nav{
+    background: rgba(0, 0, 0, 0.47);
+}
+
+
+
