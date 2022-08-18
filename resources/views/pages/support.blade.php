@@ -5,7 +5,7 @@
 {{--    heading of about page --}}
    <div class="row">
        <div class="d-flex justify-content-center align-items-center" id="about-heading">
-               <h1>Support Us</h1>
+               <h1>Don't Support Us</h1>
            </div>
    </div>
 {{--    introductory paragraphs of about page--}}
